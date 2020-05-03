@@ -40,7 +40,8 @@
      font-size: 24px 
 }
  h2 {
-     font-size: 22px 
+     font-size: 80px ;
+     color: red;
 }
  h3 {
      font-size: 18px 
@@ -1454,6 +1455,8 @@ LOADER
      background-image: url("../images/athlete_men.jpg");
      background-size: 1920px 1080px;
      background-position: center center;
+     background-size: cover;
+     background-attachment: fixed;
 }
  .athletics_women {
     background-color: #f9f9f9;
@@ -1462,6 +1465,8 @@ LOADER
     background-image: url("../images/athletics_women.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .badminton_men {
     background-color: #f9f9f9;
@@ -1470,6 +1475,8 @@ LOADER
     background-image: url("../images/bmmen.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .badminton_women {
     background-color: #f9f9f9;
@@ -1478,6 +1485,8 @@ LOADER
     background-image: url("../images/bmwomen.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .basketball_men {
     background-color: #f9f9f9;
@@ -1486,6 +1495,8 @@ LOADER
     background-image: url("../images/basketball.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .basketball_women {
     background-color: #f9f9f9;
@@ -1494,6 +1505,8 @@ LOADER
     background-image: url("../images/basketballw.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .cricket {
     background-color: #f9f9f9;
@@ -1502,6 +1515,8 @@ LOADER
     background-image: url("../images/cricket.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .football {
     background-color: #f9f9f9;
@@ -1510,6 +1525,8 @@ LOADER
     background-image: url("../images/football.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .hockey {
     background-color: #f9f9f9;
@@ -1518,6 +1535,8 @@ LOADER
     background-image: url("../images/hockey.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .lawn_tennis {
     background-color: #f9f9f9;
@@ -1526,6 +1545,8 @@ LOADER
     background-image: url("../images/lawn_tennis.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
   .swimming {
     background-color: #f9f9f9;
@@ -1534,6 +1555,8 @@ LOADER
     background-image: url("../images/swimming.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
   .tt_men {
     background-color: #f9f9f9;
@@ -1542,6 +1565,8 @@ LOADER
     background-image: url("../images/ttmen.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
   .tt_women {
     background-color: #f9f9f9;
@@ -1550,6 +1575,8 @@ LOADER
     background-image: url("../images/ttwomen.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .volleyball {
     background-color: #f9f9f9;
@@ -1558,6 +1585,8 @@ LOADER
     background-image: url("../images/volleyball.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .weight {
     background-color: #f9f9f9;
@@ -1566,6 +1595,8 @@ LOADER
     background-image: url("../images/weight.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .adv {
     background-color: #f9f9f9;
@@ -1574,6 +1605,8 @@ LOADER
     background-image: url("../images/adv.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .bridge {
     background-color: #f9f9f9;
@@ -1582,6 +1615,8 @@ LOADER
     background-image: url("../images/bridge.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
  .nature {
     background-color: #f9f9f9;
@@ -1590,6 +1625,8 @@ LOADER
     background-image: url("../images/nature.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .tw {
     background-color: #f9f9f9;
@@ -1598,6 +1635,8 @@ LOADER
     background-image: url("../images/tw.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .awards {
     background-color: #f9f9f9;
@@ -1606,6 +1645,8 @@ LOADER
     background-image: url("../images/awards.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .about {
     background-color: #f9f9f9;
@@ -1614,6 +1655,8 @@ LOADER
     background-image: url("../images/iitk1.jpg");
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .iitk1 {
     background-color: yellow;
@@ -1621,7 +1664,10 @@ LOADER
     text-align: center;
     background-size: 1920px 1080px;
     background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
+ 
  .innerpage_banner h2 {
      margin: 55px 0 0;
      padding: 0;
